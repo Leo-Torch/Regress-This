@@ -1,5 +1,4 @@
 # Regress-This
-Regression algorithm for Explore Hacks.
 
 Regression
 
